@@ -6,9 +6,12 @@ RUN gem install bundler
 
 WORKDIR /usr/src/app
 
-COPY . /usr/src/app
+COPY Gemfile .
+COPY Gemfile.lock .
 
 RUN bundle install
+
+COPY . .
 
 CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
 
