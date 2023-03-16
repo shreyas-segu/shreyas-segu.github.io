@@ -7,7 +7,7 @@ permalink: /how-to
 
 ---
 
-## Introduction
+# Introduction
 Hi! I'm Shreyas Segu - have spent nearly 3 years as a Software Engineer across various Orgs (Apttus, VTiger, Clarivate, Kenko Health). I have worked towards delivering high-quality products, platforms, and processes from scratch.
 
 ## Key Traits
@@ -65,7 +65,7 @@ Hi! I'm Shreyas Segu - have spent nearly 3 years as a Software Engineer across v
 
 ### Hobbies
 - PC Hardware Enthusiast
-- Linux Enthusiast (I don't use Arch btw ... as of now)
+- Linux Enthusiast (I don't use Arch btw ...)
 - Pizza connoisseur 
 - Series, Anime
 
