@@ -45,20 +45,23 @@ Here are the criteria
 #### i3 Window Manager
 The i3 window manager checks all these boxes. Let me explain.
 
-- [x] Ease of Customization
+##### Ease of Customization
+
 A window manager doesn't have all the bells and whistles of a regular desktop environment, like a file manager, settings panel, etc. It does only one thing and it does it well, manages Windows.
 
 I can choose my components, only necessary things, Like a file manager, bar, application launcher, notification manager, and compositor. That's it.
 I can theme the bar, file manager, and application to exactly how I want it to look.
 
-- [x] Low Memory Footprint
+##### Low Memory Footprint
+
 - The window manager itself takes 16 megabytes
 - application launcher doesn't consume any memory if it's not open. If it is open it takes 20 megabytes
 - Using Polybar for the bar, it takes 20 megabytes
 - Compositor 7 megabytes
 - All in all takes less than 100 megabytes to set up a complete desktop environment, and still way better than Windows and MacOS
 
-- [x] Productivity
+##### Productivity
+
 - very simple to customize, do it once and check in the configuration file into a git repo. Reproducible results every time.
 - Can have unlimited workspaces
 - Applications open on the designated workspaces only, no need for window management
