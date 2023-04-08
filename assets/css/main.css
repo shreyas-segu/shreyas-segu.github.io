@@ -1314,6 +1314,9 @@ ol p {
     height: 128px;
     width: 128px; }
 
+.task-list {
+  list-style: none;
+}
 .table {
   background-color: var(--color-bg-sub);
   color: var(--color-border-dark); }
